@@ -1,5 +1,6 @@
 # ros-navigation
 After creating and saving the map the navigation will be applied 
+
 here is the steps of creating a map https://github.com/aselalshaikh/robot-arm/blob/main/README3.md
 
 ## Navigation
