@@ -28,9 +28,7 @@ The 2D nav goal allows the user to send a goal to the navigation by setting a de
 ![RRR](https://user-images.githubusercontent.com/85528449/125350057-e995a580-e366-11eb-99d6-f1aa8926a0c1.png)
 
 
-
 * If you faced any problem see this tutorial https://www.youtube.com/watch?v=WCMosUMv_fg with using these commands
-
 
 ```
 cd simulation_ws/src/
