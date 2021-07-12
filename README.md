@@ -16,7 +16,12 @@ roslaunch turtlebot3_navigation turtlebot3_navigation.launch map_file:=$HOME/map
 
 3- Repeat step 1 and 2 until the LDS sensor data is covered
 
-![r4](https://user-images.githubusercontent.com/85528449/125341523-59eaf980-e35c-11eb-8e55-b471caa010e9.png)
+![r4](https://user-images.githubusercontent.com/85528449/125349919-c8cd5000-e366-11eb-977a-8aca103d1595.png)
+
+### Set Navigation Goal
+
+![RRR](https://user-images.githubusercontent.com/85528449/125350057-e995a580-e366-11eb-99d6-f1aa8926a0c1.png)
+
 
 
 * If you faced any problem see this tutorial https://www.youtube.com/watch?v=WCMosUMv_fg with using these commands
