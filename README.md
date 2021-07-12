@@ -20,6 +20,7 @@ roslaunch turtlebot3_navigation turtlebot3_navigation.launch map_file:=$HOME/map
 
 ### Set Navigation Goal
 The 2D nav goal allows the user to send a goal to the navigation by setting a desired pose for the robot to achieve.
+
 1- Click the 2D Nav Goal button 
 
 2- Click on the map to set the robot's destination 
